@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
-fig, ax = plt.subplots() # 创建图实例
+fig, ax = plt.subplots()
 
 fs_to_au = 41.341
 
